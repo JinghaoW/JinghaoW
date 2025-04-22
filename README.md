@@ -1,7 +1,13 @@
 ## Hi there 👋
+<p align="center">
+  <a href="https://jinghaow.github.io/">
+    <img src="https://github.com/JinghaoW/JinghaoW/blob/main/dr-mjao.gif" alt="Banner" width="50%">
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinghaoW&layout=compact&theme=tokyonight)
-**JinghaoW/JinghaoW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Jinghao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JinghaoW&theme=nightowl)](https://github.com/JinghaoW/github-readme-activity-graph)

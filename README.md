@@ -17,11 +17,10 @@
   
 <p align="center">If you are searching for <a href="https://www.hpc.ntnu.no/idun/">IDUN</a> instructions, here is the link ;)  <a href="https://jinghaow.github.io/2023/09/22/Idun/#">How to use IDUN in windows</a> | 
   <a href= "https://jinghaow.github.io/2025/04/08/how-to-use-cplex-in-IDUN/"> How to use Cplex in IDUN.</p>
+</p>
+
   
   
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinghaoW&layout=compact&theme=tokyonight)
-
 
 
   

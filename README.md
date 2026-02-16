@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://jinghaow.github.io/">
-    <img src="https://github.com/JinghaoW/JinghaoW/blob/main/dr-mjao.gif" alt="Banner" width="50%">
+    <img src="https://github.com/JinghaoW/JinghaoW/blob/main/images.jfif" alt="Banner" width="50%">
 </p>
 
 <h1 align="center"> Hi there 👋, I'm <a https://jinghaow.github.io/">Jinghao Wang</a>!</h1>

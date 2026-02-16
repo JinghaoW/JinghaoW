@@ -8,7 +8,7 @@
   </a>
 </p>
 <h3 align="center">Welcome to my GitHub profile :3</h3>
-<p align="center">❤ I'm currently a Ph.D student in NTNU, 🔭 working on AI implementation on hydropower and energy system scheudling.</p>
+<p align="center">❤ I'm soon geting my Ph.D  in NTNU, 🔭 working on AI implementation on hydropower and energy system scheudling.</p>
 
 <p align="center">
   <strong><a href="https://jinghaow.github.io/">Website</a></strong> |

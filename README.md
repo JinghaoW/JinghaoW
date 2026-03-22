@@ -9,7 +9,7 @@
 <h3 align="center">Welcome to my GitHub profile :3</h3>
 
 <p align="center">
-  ❤ I'm soon getting my Ph.D at NTNU, 🔭 working on AI implementation on hydropower and energy system scheduling.
+  ❤ I got my Ph.D from NTNU, 🔭 working on AI implementation on hydropower and energy system scheduling.
 </p>
 
 ---

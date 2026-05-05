@@ -38,8 +38,8 @@ A simple DST (Don't Starve Together) server installation program built with Pyth
 
 ### IDUN HPC Cluster Tutorials
 🤔 If you are searching for <a href="https://www.hpc.ntnu.no/idun/">IDUN</a> instructions, here are the links:
-- [How to use IDUN in Windows](https://jinghaow.github.io/2023/09/22/Idun/#)
-- [How to use Cplex in IDUN](https://jinghaow.github.io/2025/04/08/how-to-use-cplex-in-IDUN/)
+- [How to use IDUN in Windows](https://jinghaow.github.io/2026/05/04/Idun/#)
+- [How to use Cplex in IDUN](https://jinghaow.github.io/2026/05/04/how-to-use-cplex-in-IDUN/)
 
 ### Visiting Trondheim?
 📫 If you are visiting Trondheim and need some gear for your trip, please check out [BUMERANG](https://ntnui.no/bumerang/en/welcome/) - it's free!

@@ -29,6 +29,9 @@
 ### [JinghaoW/JinghaoW](https://github.com/JinghaoW/JinghaoW)
 My personal GitHub profile repository. Contains this README and resources showcasing my work and interests.
 
+### [CV-automation](https://github.com/JinghaoW/CV-automation)
+An automated job search pipeline that reads a CV, finds relevant listings, scores them with an LLM, and emails a ranked report.
+
 ### [Dont_starve_server_auto](https://github.com/JinghaoW/Dont_starve_server_auto)
 A simple DST (Don't Starve Together) server installation program built with Python. This automation tool helps set up and manage game servers efficiently. There are still some bugs inside, but it works! 🎮
 

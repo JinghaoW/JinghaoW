@@ -9,7 +9,7 @@
 <h3 align="center">Welcome to my GitHub profile :3</h3>
 
 <p align="center">
-  ❤ I got my Ph.D from NTNU, 🔭 working on AI implementation on hydropower and energy system scheduling.
+  ❤ I got my Ph.D from NTNU, 🔭 working on AI implementation on hydropower and energy system scheduling. Open to Work!!!
 </p>
 
 ---
@@ -28,6 +28,9 @@
 
 ### [JinghaoW](https://jinghaow.github.io/)
 My personal GitHub profile. Contains resources showcasing my work and interests.
+
+### [Literature_manager](https://github.com/JinghaoW/literature_manager) 
+Local-first academic paper manager for Windows: import PDFs, organize reading status, write notes, and run AI-assisted analysis.
 
 ### [CV-automation](https://github.com/JinghaoW/CV-automation)
 An automated job search pipeline that reads a CV, finds relevant listings, scores them with an LLM, and emails a ranked report.

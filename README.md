@@ -11,10 +11,9 @@
 <p align="center">
   ❤ I got my Ph.D from NTNU, 🔭 working on AI implementation on hydropower and energy system scheduling. Open to Work!!!
 </p>
-[![GitHub Card](https://card.shiina.xyz/card/JinghaoW?theme=shiina)](https://github.com/JinghaoW)
-
 
 ---
+[![GitHub Card](https://card.shiina.xyz/card/JinghaoW?theme=shiina)](https://github.com/JinghaoW)
 
 ## 🔗 Connect With Me
 

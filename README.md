@@ -61,6 +61,6 @@ A simple DST (Don't Starve Together) server installation program built with Pyth
 
 ## ⚡ GitHub Stats
 
-[![Jinghao's GitHub Streak]([https://demolab.com](https://streak-stats.demolab.com/JinghaoWDenverCoder1))](https://git.io/streak-stats)
+[![Jinghao's GitHub Streak]([https://demolab.com](https://streak-stats.demolab.com/?user=JinghaoW))](https://git.io/streak-stats)
 
 

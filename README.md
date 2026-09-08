@@ -13,7 +13,9 @@
 </p>
 
 ---
+<p align="center">
 [![GitHub Card](https://card.shiina.xyz/card/JinghaoW?theme=shiina)](https://github.com/JinghaoW)
+</p>
 
 ## 🔗 Connect With Me
 

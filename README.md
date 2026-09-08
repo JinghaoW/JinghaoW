@@ -12,10 +12,13 @@
   ❤ I got my Ph.D from NTNU, 🔭 working on AI implementation on hydropower, energy or storage system scheduling. Open to Work!!!
 </p>
 
----
 <p align="center">
-[![GitHub Card](https://card.shiina.xyz/card/JinghaoW?theme=shiina)](https://github.com/JinghaoW)
+  <a href="https://github.com/JinghaoW">
+    <img src="https://card.shiina.xyz/card/JinghaoW?theme=shiina" alt="GitHub Card">
+  </a>
 </p>
+
+---
 
 ## 🔗 Connect With Me
 
@@ -63,8 +66,12 @@ A simple DST (Don't Starve Together) server installation program built with Pyth
 ---
 
 ## ⚡ GitHub Stats
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=JinghaoW" alt="GitHub Streak">
+  </a>
+</p>
 
-[![Jinghao's GitHub Streak](https://streak-stats.demolab.com/?user=JinghaoW)](https://git.io/streak-stats)
 
 
 

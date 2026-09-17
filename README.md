@@ -35,6 +35,9 @@
 ### [JinghaoW](https://jinghaow.github.io/)
 My personal GitHub profile. Contains resources showcasing my work and interests.
 
+### [Tex difference](https://github.com/JinghaoW/ManuDiff)
+Tracked Changes for LaTeX Manuscripts. Especially for paper revision :) You can use the web to test https://jinghaow.github.io/ManuDiff/
+
 ### [Literature_manager](https://github.com/JinghaoW/literature_manager) 
 Local-first academic paper manager for Windows: import PDFs, organize reading status, write notes, and run AI-assisted analysis.
 
